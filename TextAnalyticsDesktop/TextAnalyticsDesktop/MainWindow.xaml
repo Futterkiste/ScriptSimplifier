@@ -1,0 +1,34 @@
+﻿<Window x:Class="TextAnalyticsDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextAnalyticsDesktop"
+        mc:Ignorable="d"
+        Title="Script to question Bot" Height="450" Width="525">
+    <StackPanel>
+
+        <TextBlock Text="Take a look in our presentation to see how this prototype works and what features this prototype simulates" Height="23"/>
+        <TextBox x:Name="TextToAnalyze" AcceptsReturn="True" Height="148"/>  
+
+
+
+        <Grid Height="251">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Content="Analyze" x:Name="Analyze" Click="Analyze_Click" Margin="0,0,0,231"/>
+            <TextBox Grid.Column="0" x:Name="Questions" AcceptsReturn="True" Margin="0,20,0,125"/>
+            <Button Grid.Column="1" Content="Ask new question" x:Name="AskQuestion" Click="AskQuestion_Click" Margin="0,0,0,231"/>
+            <TextBox Grid.Column="1" x:Name="randomQuestion" Margin="0,20,0,91"/>
+            <TextBox Grid.Column="1" x:Name="Debug" Text="Only for Debug issues (ignore)" Margin="0,150,0,3"/>
+            <Button Grid.Column="1" Content="Upvote question" x:Name="UpvoteQuestion" Click="UpvoteQuestion_Click" Margin="0,126,116,101"/>
+            <Button Grid.Column="1" Content="Show question rank" x:Name="ShowQuestionRank" Click="ShowQuestionRank_Click" Margin="144,126,0,101"/>
+            <CheckBox x:Name="solvedQuestion" Content="Answered question right" Grid.Column="1" HorizontalAlignment="Left" Margin="100,106,0,0" VerticalAlignment="Top" Checked="solvedQuestion_Checked" Unchecked="solvedQuestion_Unchecked"/>
+            <TextBox Grid.Column="0" x:Name="LearningScore" AcceptsReturn="True" Margin="0,150,0,3"/>
+            <Label x:Name="label" Content="Your question score" HorizontalAlignment="Left" Margin="65,126,0,0" VerticalAlignment="Top" Width="118"/>
+
+        </Grid>
+    </StackPanel>
+</Window>

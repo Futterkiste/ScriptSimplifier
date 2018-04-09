@@ -1,0 +1,32 @@
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.exe.config
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\App.g.cs
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop_MarkupCompile.cache
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop_MarkupCompile.lref
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\MainWindow.baml
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.g.resources
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.Properties.Resources.resources
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.csproj.GenerateResource.Cache
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.exe.config
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\App.g.cs
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop_MarkupCompile.cache
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop_MarkupCompile.lref
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\MainWindow.baml
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.g.resources
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.Properties.Resources.resources
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Debug\TextAnalyticsDesktop.csproj.GenerateResource.Cache

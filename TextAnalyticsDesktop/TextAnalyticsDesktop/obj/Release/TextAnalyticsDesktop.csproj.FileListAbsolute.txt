@@ -1,0 +1,63 @@
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe.config
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.g.cs
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\App.g.cs
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.cache
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.lref
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.baml
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.g.resources
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.Properties.Resources.resources
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csproj.GenerateResource.Cache
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\Festplatte\Universität\Physik\5. Semester\Computational Physics\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.pdb
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe.config
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.exe
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.pdb
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.pdb
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.dll
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.xml
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csprojResolveAssemblyReference.cache
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.g.cs
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\App.g.cs
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.cache
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.lref
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.baml
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.g.resources
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.Properties.Resources.resources
+D:\Tobias Urban\Downloads\All\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csproj.GenerateResource.Cache
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe.config
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.pdb
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.g.cs
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\App.g.cs
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.cache
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.lref
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.baml
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.g.resources
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.Properties.Resources.resources
+C:\Users\Oliver\Desktop\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csproj.GenerateResource.Cache
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe.config
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.exe
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\TextAnalyticsDesktop.pdb
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.dll
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\bin\Release\Newtonsoft.Json.xml
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csprojResolveAssemblyReference.cache
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.g.cs
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\App.g.cs
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.cache
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop_MarkupCompile.lref
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\MainWindow.baml
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.g.resources
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.Properties.Resources.resources
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.csproj.GenerateResource.Cache
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.exe
+D:\Tobias Urban\Downloads\textAnalytics\TextAnalyticsDesktop_Improved\TextAnalyticsDesktop\TextAnalyticsDesktop\obj\Release\TextAnalyticsDesktop.pdb
